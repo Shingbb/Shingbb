@@ -23,4 +23,4 @@
 
 ### 🎉 Get in touch
 
-[![GitHub](https://img.shields.io/badge/GitHub-grey?logo=github)](Shingbb (github.com)](https://github.com/Shingbb))
+[![GitHub](https://img.shields.io/badge/GitHub-grey?logo=github)](https://github.com/Shingbb)
