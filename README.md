@@ -17,7 +17,8 @@
 ![](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=Redis&logoColor=fff)
 ![](https://img.shields.io/badge/-Git-E84E31?style=flat-square&logo=Git&logoColor=fff)
 
-
+## 今年汇总 ✨
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shingbb&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
 
 ### 🎉 Get in touch
 
