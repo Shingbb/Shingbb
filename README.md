@@ -1,7 +1,7 @@
 ## 我是Shing
 
 - Java开发，测试🌈
-- 🏡 作品： <a href="https://github.com/Shingbb/shing-generator" target="_blank">定制化代码生成器✨</a> | <a href="[https://github.com/lhccong/CRPC](https://github.com/Shingbb/shing-rpc" target="_blank">轻量级RPC框架</a>
+- 🏡 作品： <a href="https://github.com/Shingbb/shing-generator" target="_blank">定制化代码生成器✨</a> | <a href="https://github.com/Shingbb/shing-rpc" target="_blank">轻量级RPC框架</a>
 
 ### ✨ 我的技能   
 
